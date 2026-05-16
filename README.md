@@ -1,48 +1,74 @@
-# COAGRIX 
+# MAREVA
 
-¿Que problema resuelve?
+## ¿Qué problema resuelve?
 
-- El sistema mejora la visibilidad del sector agricola en el mercado, facilitando la comunicación de del agricultor con la empresa reduciendo los intermediarios. 
+- El sistema mejora la visibilidad de los servicios turísticos y facilita la conexión entre viajeros, agencias y operadores turísticos, permitiendo encontrar paquetes de viaje, destinos y experiencias de manera rápida y organizada.
 
-Para evitar perdidas en el sector agricola y mejorar su alcance en el mercado logrando tener mas visibilidad y una participación directa en el mercado.
+La plataforma busca simplificar la planificación de viajes, ofrecer información clara sobre destinos turísticos y brindar una experiencia segura y accesible para las personas interesadas en viajar.
 
-Actores:
-   - Agricultores (Principal): Publica el producto, Prueba la calidad, Especificación y la cantidad para vender, Agendamiento de citas, comunicación directa con la empresa y los comerciantes.
+## Actores
 
-   - Empresas: Contacta el agricultor, Revición de publicaciones (COMENTARIOS, MENSAJES, ETC).
+- **Viajeros (Principal):**
+  - Buscar destinos turísticos
+  - Reservar paquetes de viaje
+  - Consultar precios y disponibilidad
+  - Agendar actividades turísticas
+  - Comunicación directa con agencias y operadores
 
-   - Comerciantes productos agricolas: Contacta el agricultor, Revición de publicaciones (COMENTARIOS, MENSAJES, ETC). 
+- **Agencias de Viaje:**
+  - Publicar paquetes turísticos
+  - Gestionar reservas
+  - Responder mensajes y comentarios
+  - Coordinar actividades y hospedajes
 
-#  Funcionalidades
+- **Operadores Turísticos:**
+  - Publicar experiencias y tours
+  - Gestionar disponibilidad
+  - Comunicación con los viajeros
+  - Confirmación de servicios turísticos
 
- [] Registro
- [] Identificar usuario (ROL Agricultor, Empresa)
- [] Publicaciones (PRODUCTOS, MENSAJES, CANTIDAD, PRECIO)
- [] Comunicación directa (EMPRESA Y AGRICULTOR) 
- [] Agendamiento de citas (EMPRESA Y AGRICULTOR)
+# FUNCIONALIDADES
 
-# Deciociones Iniciales
+- [ ] Registro de usuarios
+- [ ] Identificación de usuario (ROL VIAJERO, AGENCIA, OPERADOR)
+- [ ] Publicaciones de paquetes turísticos
+- [ ] Información de destinos, precios y fechas
+- [ ] Comunicación directa entre viajeros y agencias
+- [ ] Reservas y agendamiento de actividades
+- [ ] Sistema de comentarios y valoraciones
+- [ ] Gestión de disponibilidad de tours y paquetes
 
-   MODELO: SCRUM
+# DECISIONES INICIALES
 
-   - Basicamente escogimos este método agil, ya que nos ofrece una organizacion efectiva en las tareas del proyecto, basandose en los cambios que requiera hacer el cliente durante el proceso del aplicativo WEB. Haciendo entrega del avance del proyecto cada determinado tiempo, para disminuir errores al finilzar el aplicativo WEB.
+## MODELO: SCRUM
 
-# TECNOLOGIAS 
+- Escogimos este método ágil porque permite una organización efectiva de las tareas del proyecto, adaptándose fácilmente a los cambios o nuevas necesidades durante el desarrollo de la aplicación web.
 
-   BACKEND: PYTHON (Ya se tiene un dominio en este lenguaje, el cual nos facilita el desarrollo de la codificación)
+- Además, SCRUM facilita realizar entregas periódicas de avances del proyecto, permitiendo detectar errores a tiempo y mejorar continuamente la calidad del aplicativo.
 
-   BASE DE DATOS: PostgreSQL (porque es gratis y potente)
+# TECNOLOGÍAS
 
-   FRONEND: REACT (Nos facilita la documentación)
+## BACKEND
+- PYTHON  
+  (Se cuenta con experiencia previa en este lenguaje, lo cual facilita el desarrollo de la lógica y funcionalidades del sistema).
 
+## BASE DE DATOS
+- PostgreSQL  
+  (Elegido por ser un sistema de base de datos robusto, gratuito y eficiente).
 
-AUTORES: 
+## FRONTEND
+- REACT  
+  (Permite desarrollar interfaces dinámicas y cuenta con amplia documentación y soporte).
 
-   - Maria Fernanda Calderon 
-   - David Felipe Rodriguez
-   - Nelson Andres Aroca
-   - Alan Nicolas Herrera
-   - Juan Andres Pineda 
+# AUTORES
 
-Fecha: 25/04/2026
-BOOTCAMP: ARQUITECTURA DE SOFTWARE - COAGRIX
+- NELSON ANDRES AROCA MARIN
+- NICOLL VALERIA SABOGAL NARVAEZ
+- LAURA SOFÍA RUBIANO ÁLVAREZ
+- CESAR DANIEL UZCATEGUI ROJAS
+- NICOLE SOFIA MUNEVAR MONCADA
+
+---
+
+**Fecha:** 25/04/2026  
+**BOOTCAMP:** ARQUITECTURA DE SOFTWARE - MAREVA****
